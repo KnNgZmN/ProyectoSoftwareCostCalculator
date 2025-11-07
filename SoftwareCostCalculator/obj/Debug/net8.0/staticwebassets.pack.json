@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Universitaria\\6 Semestre\\Ingenieria de Software ll\\ProyectoCalculatorSoftwareTesting\\SoftwareCostCalculator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftwareCostCalculator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SoftwareCostCalculator.ao5u5z7wwx.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Universitaria\\6 Semestre\\Ingenieria de Software ll\\ProyectoCalculatorSoftwareTesting\\SoftwareCostCalculator\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Universitaria\\6 Semestre\\Ingenieria de Software ll\\ProyectoCalculatorSoftwareTesting\\SoftwareCostCalculator\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Universitaria\\6 Semestre\\Ingenieria de Software ll\\ProyectoCalculatorSoftwareTesting\\SoftwareCostCalculator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Universitaria\\6 Semestre\\Ingenieria de Software ll\\ProyectoCalculatorSoftwareTesting\\SoftwareCostCalculator\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoftwareCostCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoftwareCostCalculator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SoftwareCostCalculator.props",
+      "PackagePath": "build\\SoftwareCostCalculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SoftwareCostCalculator.props",
+      "PackagePath": "buildMultiTargeting\\SoftwareCostCalculator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SoftwareCostCalculator.props",
+      "PackagePath": "buildTransitive\\SoftwareCostCalculator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
